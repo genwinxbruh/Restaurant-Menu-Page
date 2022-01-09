@@ -3,7 +3,7 @@ const menu = [{
         title: "burger",
         category: "Fast Food",
         price: "1",
-        img: "/images/burger.jpg",
+        img: "./images/burger.jpg",
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe tempore molestias porro inventore sapiente! Eos provident suscipit, id porro corrupti corporis excepturi ea ad ab reiciendis mollitia dolore enim expedita.",
     },
     {
@@ -11,7 +11,7 @@ const menu = [{
         title: "fish fingers",
         category: "Non-Veg",
         price: "4",
-        img: "/images/fish-finger.jpg",
+        img: "./images/fish-finger.jpg",
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe tempore molestias porro inventore sapiente! Eos provident suscipit, id porro corrupti corporis excepturi ea ad ab reiciendis mollitia dolore enim expedita.",
     },
     {
@@ -19,7 +19,7 @@ const menu = [{
         title: "sandwich",
         category: "Fast Food",
         price: "1",
-        img: "/images/sandwich.jpg",
+        img: "./images/sandwich.jpg",
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe tempore molestias porro inventore sapiente! Eos provident suscipit, id porro corrupti corporis excepturi ea ad ab reiciendis mollitia dolore enim expedita.",
     },
     {
@@ -27,7 +27,7 @@ const menu = [{
         title: "fried chicken",
         category: "Non-Veg",
         price: "4",
-        img: "/images/fried-chicken.jpg",
+        img: "./images/fried-chicken.jpg",
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe tempore molestias porro inventore sapiente! Eos provident suscipit, id porro corrupti corporis excepturi ea ad ab reiciendis mollitia dolore enim expedita.",
     },
     {
@@ -35,7 +35,7 @@ const menu = [{
         title: "pizza",
         category: "Fast Food",
         price: "2",
-        img: "/images/pizza.jpg",
+        img: "./images/pizza.jpg",
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe tempore molestias porro inventore sapiente! Eos provident suscipit, id porro corrupti corporis excepturi ea ad ab reiciendis mollitia dolore enim expedita.",
     },
     {
